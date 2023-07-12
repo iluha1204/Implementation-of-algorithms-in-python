@@ -1,0 +1,179 @@
+1.
+Jobs (time(index)):
+[12(1), 10(2), 10(3), 8(4), 8(5), 6(6), 6(7), 6(8)]
+Number of machines: 3
+K number (allowed number of jobs on machine, except #1): 3
+
+2.
+Jobs (time(index)):
+[14(1), 14(2), 12(3), 12(4), 10(5), 10(6), 8(7)]
+Number of machines: 3
+K number (allowed number of jobs on machine, except #1): 10
+
+3.
+Jobs (time(index)):
+[8(1), 8(2), 6(3), 6(4), 6(5), 5(6), 5(7), 5(8), 5(9)]
+Number of machines: 3
+K number (allowed number of jobs on machine, except #1): 10
+
+4.
+Jobs (time(index)):
+[20(1), 18(2), 16(3), 14(4), 12(5), 12(6), 10(7)]
+Number of machines: 3
+K number (allowed number of jobs on machine, except #1): 10
+
+5.
+Jobs (time(index)):
+[14(1), 14(2), 12(3), 12(4), 10(5), 10(6), 8(7), 8(8), 8(9)]
+Number of machines: 4
+K number (allowed number of jobs on machine, except #1): 10
+
+6. 
+Jobs (time(index)):
+[32(1), 30(2), 28(3), 38(4), 42(5), 48(6), 52(7), 202(8), 200(9), 198(10), 298(11), 302(12)]
+Number of machines: 6
+K number (allowed number of jobs on machine, except #1): 1
+
+7.
+Jobs (time(index)):
+[3(1), 3(2), 3(3), 3(4), 2(5), 2(6), 4(7), 4(8)]
+Number of machines: 4
+K number (allowed number of jobs on machine, except #1): 10
+
+8.
+Jobs (time(index)):
+[12(1), 14(2), 16(3), 18(4), 12(5), 14(6), 16(7), 18(8), 10(9), 10(10), 10(11)]
+Number of machines: 5
+K number (allowed number of jobs on machine, except #1): 10
+
+9. 
+Jobs (time(index)):
+[32(1), 30(2), 28(3), 38(4), 42(5), 48(6), 52(7), 202(8), 200(9), 198(10), 298(11), 302(12)]
+Number of machines: 6
+K number (allowed number of jobs on machine, except #1): 2
+
+10.
+Jobs (time(index)):
+[12(1), 10(2), 10(3), 8(4), 8(5), 6(6), 6(7), 6(8)]
+Number of machines: 3
+K number (allowed number of jobs on machine, except #1): 2
+
+11.
+Jobs (time(index)):
+[14(1), 14(2), 12(3), 12(4), 10(5), 10(6), 8(7)]
+Number of machines: 3
+K number (allowed number of jobs on machine, except #1): 2
+
+12.
+Jobs (time(index)):
+[8(1), 8(2), 6(3), 6(4), 6(5), 5(6), 5(7), 5(8), 5(9)]
+Number of machines: 3
+K number (allowed number of jobs on machine, except #1): 3
+
+13.
+Jobs (time(index)):
+[3(1), 3(2), 3(3), 3(4), 2(5), 2(6), 4(7), 4(8)]
+Number of machines: 4
+K number (allowed number of jobs on machine, except #1): 2
+
+14.
+Jobs (time(index)):
+[12(1), 14(2), 16(3), 18(4), 12(5), 14(6), 16(7), 18(8), 10(9), 10(10), 10(11)]
+Number of machines: 5
+K number (allowed number of jobs on machine, except #1): 2
+
+15.
+Jobs (time(index)):
+[12(1), 14(2), 16(3), 18(4), 12(5), 14(6), 16(7), 18(8), 10(9), 10(10), 10(11)]
+Number of machines: 5
+K number (allowed number of jobs on machine, except #1): 3
+
+16.
+Jobs (time(index)):
+[1(1), 4(2), 9(3), 16(4), 25(5), 36(6), 49(7), 64(8), 81(9), 100(10), 121(11), 144(12), 169(13), 196(14), 225(15), 256(16), 289(17), 324(18), 361(19), 400(20), 441(21), 484(22), 529(23), 576(24), 625(25)]
+Number of machines: 5
+K number (allowed number of jobs on machine, except #1): 5
+
+17.
+Jobs (time(index)):
+[1(1), 4(2), 9(3), 16(4), 25(5), 36(6), 49(7), 64(8), 81(9), 100(10), 121(11), 144(12), 169(13), 196(14), 225(15), 256(16), 289(17), 324(18), 361(19), 400(20), 441(21), 484(22), 529(23), 576(24), 625(25)]
+Number of machines: 6
+K number (allowed number of jobs on machine, except #1): 3
+
+18.
+Jobs (time(index)):
+[1(1), 4(2), 9(3), 16(4), 25(5), 36(6), 49(7), 64(8), 81(9), 100(10), 121(11), 144(12), 169(13), 196(14), 225(15), 256(16), 289(17), 324(18), 361(19), 400(20), 441(21), 484(22), 529(23), 576(24), 625(25)]
+Number of machines: 6
+K number (allowed number of jobs on machine, except #1): 7
+
+19.
+Jobs (time(index)):
+[26(1), 26(2), 24(3), 24(4), 22(5), 22(6), 20(7), 20(8), 18(9), 18(10), 16(11), 16(12), 14(13), 14(14), 14(15)]
+Number of machines: 7
+K number (allowed number of jobs on machine, except #1): 2
+
+20.
+Jobs (time(index)):
+[14(1), 16(2), 18(3), 20(4), 22(5), 14(6), 16(7), 18(8), 20(9), 22(10), 12(11), 12(12), 12(13)]
+Number of machines: 6
+K number (allowed number of jobs on machine, except #1): 10
+
+21.
+Jobs (time(index)):
+[12(1), 12(2), 12(3), 12(4), 12(5), 12(6), 12(7), 12(8), 12(9), 12(10), 12(11), 4(12), 4(13), 4(14), 23(15), 23(16), 23(17), 23(18), 23(19), 23(20), 6(21)]
+Number of machines: 2
+K number (allowed number of jobs on machine, except #1): 10
+
+22.
+Jobs (time(index)):
+[4(1), 4(2), 4(3), 5(4), 5(5), 5(6), 6(7), 6(8), 6(9), 7(10), 7(11), 7(12), 8(13), 8(14), 8(15), 9(16), 9(17), 9(18), 13(19), 13(20), 13(21), 13(22), 13(23), 13(24), 13(25), 13(26), 8(27), 8(28), 8(29), 8(30), 8(31), 8(32)]
+Number of machines: 3
+K number (allowed number of jobs on machine, except #1): 11
+
+23.
+Jobs (time(index)):
+[21(1), 23(2), 25(3), 27(4), 29(5), 31(6), 33(7), 35(8), 37(9)]
+Number of machines: 4
+K number (allowed number of jobs on machine, except #1): 10
+
+24.
+Jobs (time(index)):
+[6(1), 6(2), 6(3), 6(4), 6(5), 6(6), 6(7), 6(8), 6(9), 6(10), 5(11), 5(12), 5(13), 5(14), 5(15), 12(16), 12(17), 12(18), 10(19), 11(20)]
+Number of machines: 4
+K number (allowed number of jobs on machine, except #1): 10
+
+25.
+Jobs (time(index)):
+[26(1), 26(2), 24(3), 24(4), 22(5), 22(6), 20(7), 20(8), 18(9), 18(10), 16(11), 16(12), 14(13), 14(14), 14(15)]
+Number of machines: 7
+K number (allowed number of jobs on machine, except #1): 3
+
+26.
+Jobs (time(index)):
+[14(1), 16(2), 18(3), 20(4), 22(5), 14(6), 16(7), 18(8), 20(9), 22(10), 12(11), 12(12), 12(13)]
+Number of machines: 6
+K number (allowed number of jobs on machine, except #1): 2
+
+27.
+Jobs (time(index)):
+[12(1), 12(2), 12(3), 12(4), 12(5), 12(6), 12(7), 12(8), 12(9), 12(10), 12(11), 4(12), 4(13), 4(14), 23(15), 23(16), 23(17), 23(18), 23(19), 23(20), 6(21)]
+Number of machines: 2
+K number (allowed number of jobs on machine, except #1): 8
+
+28.
+Jobs (time(index)):
+[4(1), 4(2), 4(3), 5(4), 5(5), 5(6), 6(7), 6(8), 6(9), 7(10), 7(11), 7(12), 8(13), 8(14), 8(15), 9(16), 9(17), 9(18), 13(19), 13(20), 13(21), 13(22), 13(23), 13(24), 13(25), 13(26), 8(27), 8(28), 8(29), 8(30), 8(31), 8(32)]
+Number of machines: 3
+K number (allowed number of jobs on machine, except #1): 15
+
+29.
+Jobs (time(index)):
+[21(1), 23(2), 25(3), 27(4), 29(5), 31(6), 33(7), 35(8), 37(9), 39(10), 41(11), 43(12), 45(13), 47(14), 49(15), 51(16), 53(17), 55(18), 57(19), 59(20), 61(21), 63(22), 65(23), 67(24), 69(25), 71(26)]
+Number of machines: 4
+K number (allowed number of jobs on machine, except #1): 7
+
+30.
+Jobs (time(index)):
+[6(1), 6(2), 6(3), 6(4), 6(5), 6(6), 6(7), 6(8), 6(9), 6(10), 5(11), 5(12), 5(13), 5(14), 5(15), 12(16), 12(17), 12(18), 10(19), 11(20)]
+Number of machines: 4
+K number (allowed number of jobs on machine, except #1): 8
